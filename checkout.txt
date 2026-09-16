@@ -1,2 +1,2 @@
-Checklist 
-1. check user profile
+Checklist checkout
+1. check user data
